@@ -1,0 +1,58 @@
+=================================================================
+  QIN-BREAST-02 — DATASET METADATA SUMMARY
+=================================================================
+  Generated        : 2026-05-09 02:00:51
+  Source dir       : /home/usama/dicom_learning/data/qin_breast_02
+  Total files      : 31790
+  Pixel stats      : Yes
+
+  PATIENTS
+-----------------------------------------------------------------
+  Total patients   : 13
+  IDs              : QIN-BREAST-02-0001, QIN-BREAST-02-0002, QIN-BREAST-02-0003, QIN-BREAST-02-0004, QIN-BREAST-02-0005, QIN-BREAST-02-0006, QIN-BREAST-02-0007, QIN-BREAST-02-0008, QIN-BREAST-02-0009, QIN-BREAST-02-0010, QIN-BREAST-02-0011, QIN-BREAST-02-0012, QIN-BREAST-02-0013
+
+  FILES PER PATIENT
+-----------------------------------------------------------------
+  QIN-BREAST-02-0001                       2910 files
+  QIN-BREAST-02-0002                       2360 files
+  QIN-BREAST-02-0003                       2910 files
+  QIN-BREAST-02-0004                       2360 files
+  QIN-BREAST-02-0005                       2910 files
+  QIN-BREAST-02-0006                       970 files
+  QIN-BREAST-02-0007                       1940 files
+  QIN-BREAST-02-0008                       2910 files
+  QIN-BREAST-02-0009                       2820 files
+  QIN-BREAST-02-0010                       1940 files
+  QIN-BREAST-02-0011                       3880 files
+  QIN-BREAST-02-0012                       970 files
+  QIN-BREAST-02-0013                       2910 files
+
+  SCANNER / ACQUISITION
+-----------------------------------------------------------------
+  Scanner          : Achieva
+  Field strength   : 3 T
+  Study dates      : 20030503, 20030524, 20030531, 20030607, 20030613, 20030624, 20030628, 20030819, 20030902, 20030919, 20030921, 20031007, 20031019, 20031027, 20031116, 20031129, 20040123, 20040301, 20040312, 20040323, 20040406, 20040502, 20040531, 20040606, 20040625, 20040627, 20040807, 20040821, 20040910, 20041004, 20041011, 20050107, 20050125, 20050215
+  DCE dynamics     : 1, 10, 55, 9 time points
+
+  SERIES TYPES
+-----------------------------------------------------------------
+  - B0 3D InPhase
+  - Bloch-Siegert_FA300_FH_wR3Param
+  - DWI_EPI_b0200800
+  - THRIVE SENSE
+  - dynamic_smartTX_6deg
+  - multi-flip_T1-map
+  - qMT 3D Pulsed Trig
+
+  PIXEL STATISTICS (averaged across all files)
+-----------------------------------------------------------------
+  Mean intensity   : 304.59
+  Mean std dev     : 476.06
+  Mean min value   : -120.07
+  Mean max value   : 2761.84
+  Mean dyn. range  : 2881.91
+
+  DE-IDENTIFICATION
+-----------------------------------------------------------------
+  PHI removed      : YES
+=================================================================
