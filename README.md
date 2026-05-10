@@ -62,7 +62,7 @@ MRI_breast_dicom_metadata/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/MRI_breast_dicom_metadata.git
+git clone https://github.com/<Usamakhan843>/MRI_breast_dicom_metadata.git
 cd MRI_breast_dicom_metadata
 pip install -r requirements.txt
 ```
