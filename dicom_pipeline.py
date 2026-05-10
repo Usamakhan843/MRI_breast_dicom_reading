@@ -28,7 +28,7 @@ import pydicom
 # DEFAULT PATHS — edit these once, never type them again
 # ---------------------------------------------------------------------------
 DEFAULT_DATA_DIR   = "/home/usama/dicom_learning/data/qin_breast_02"
-DEFAULT_OUTPUT_DIR = "/home/usama/dicom_learning/output"
+DEFAULT_OUTPUT_DIR = "/home/usama/dicom_learning/dicom_reading/output"
 
 # ---------------------------------------------------------------------------
 # Logging
